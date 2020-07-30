@@ -5,7 +5,7 @@ This repository includes code for two ESP32 devices, a slave and a master.
 
 ### Master
 The master recieves the weather sensory data from the BME280 sensor (temperature, humidity and pressure) and sends it to an Azure cloud server and to the slave.<br>
-![GitHub Logo](/images/logo.png)
+![Master](/images/master.png)
 Format: ![Alt Text](url)
 
 
