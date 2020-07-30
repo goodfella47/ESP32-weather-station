@@ -9,5 +9,5 @@ The master recieves the weather sensory data from the BME280 sensor (temperature
 
 
 ### Slave
-The slave recieves the the sensory data from the master and displays it on a nokia 5110 screen.
+The slave recieves the the sensory data from the master and displays it on a nokia 5110 screen.<br>
 ![Slave image](/images/slave.jpg)
